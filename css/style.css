@@ -1,0 +1,25 @@
+h1{
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+}
+form{
+	font-family: Verdana, sans-serif;
+	font-size: 12px;
+	display: inline-block;
+}
+button{
+	display: inline-block;
+	height: 20px;
+	width: 70px;
+	background-color: green;
+	font-family: arial;
+	font-weight: bold;
+	color: #ffffff;
+	border-radius: 5px;
+	text-align: center;
+	margin-top: 2px;
+}
+#list{
+	font-family: Garamond, Times, serif;
+	color: #cc00000;
+}
